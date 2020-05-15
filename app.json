@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/starting/starting",
+    "pages/destination/destination",
+    "pages/carts/carts",
+    "pages/wait/wait",
+    "pages/order/order",
+    "pages/login/login",
+    "pages/orderClosed/orderClosed",
+    "pages/cancel/cancel",
+    "pages/orderService/orderService",
+    "pages/tuijian/tuijian",
+    "pages/evaluation/evaluation"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "滴滴伴跑",
+    "navigationBarTextStyle": "black"
+  },
+  
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,163 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": true,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.10.4",
+	"appid": "wxee886331ece30178",
+	"projectname": "didi",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"cloudfunctionTemplateRoot": "",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 16,
+			"list": [
+				{
+					"id": -1,
+					"name": "demo",
+					"pathName": "pages/demo/demo",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "map",
+					"pathName": "pages/starting/starting",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "carts",
+					"pathName": "pages/carts/carts",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "wait",
+					"pathName": "pages/wait/wait",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "order",
+					"pathName": "pages/order/order",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "login",
+					"pathName": "pages/login/login",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "orderClosed",
+					"pathName": "pages/orderClosed/orderClosed",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "cancel",
+					"pathName": "pages/cancel/cancel",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "orderService",
+					"pathName": "pages/orderService/orderService",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "destination",
+					"pathName": "pages/destination/destination",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "cost",
+					"pathName": "pages/cost/cost",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "evaluation",
+					"pathName": "pages/evaluation/evaluation",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/tuijian/tuijian",
+					"pathName": "pages/tuijian/tuijian",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/tuijian/tuijian",
+					"pathName": "pages/tuijian/tuijian",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/tuijian/tuijian",
+					"pathName": "pages/tuijian/tuijian",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/destination/destination",
+					"pathName": "pages/destination/destination",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/login/login",
+					"pathName": "pages/login/login",
+					"scene": null
+				}
+			]
+		}
+	}
+}
