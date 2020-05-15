@@ -1,0 +1,143 @@
+
+<view class="container">
+
+    <cover-view class="total">
+        <cover-view class="total-driver">
+            <cover-view class="driver-info">
+                <cover-view class="driver-img">
+                    <cover-image style="width: 150rpx;height: 150rpx;"src="../../assets/images/driver.png"/>
+                </cover-view>
+                <cover-view class="driver-detailed" >
+                    <cover-view class="detailed-name">{{driver.name}}推荐职业伴跑者
+                        <cover-image class="star" style="width: 35rpx;height: 35rpx;display: inline-block;" src="../../assets/images/star.png" ></cover-image>
+                        <cover-view class="orderTotal">{{driver.stars}}</cover-view>
+                    </cover-view>
+                   
+                    <cover-view class="detailed-Cartnumber" bindtap="tel">{{driver.Cartnumber}}18275601714</cover-view>
+
+                    <cover-view class="detailed-cart">{{driver.cart}}</cover-view>
+                </cover-view>
+            </cover-view>
+            <cover-view class="driver-message">
+                    <cover-view class="mas">
+                            <cover-image style="width: 70rpx;height: 70rpx;" src="../../assets/images/msm.png"/>
+                        </cover-view>
+                        <cover-view class="phone">
+                            <cover-image style="width: 70rpx;height: 70rpx;" src="../../assets/images/phone.png" bindtap="tel"/>
+                        </cover-view>
+            </cover-view>
+          
+        </cover-view>
+        <cover-view class="total-looking">
+            <cover-image class="looking-img" style="width: 30rpx;height: 30rpx;" src="../../assets/images/looking.png"  ></cover-image>
+            <cover-view class="looking-desc">寻找其他相同相似路径的好友</cover-view>
+        </cover-view>
+        <!--
+        采用button组件中的open-type属性生成聊天功能
+        -->
+        <cover-view class="total-prompt"><button open-type='contact' session-from=''>进入聊天系统与他/她联系</button>
+        </cover-view>
+
+
+    </cover-view>
+
+    
+
+
+</view>
+
+
+<view class="container">
+
+    <cover-view class="total1">
+        <cover-view class="total-driver">
+            <cover-view class="driver-info">
+                <cover-view class="driver-img">
+                    <cover-image style="width: 150rpx;height: 150rpx;"src="../../assets/images/driver.png"/>
+                </cover-view>
+                <cover-view class="driver-detailed" >
+                    <cover-view class="detailed-name">{{driver.name}}推荐职业伴跑者
+                        <cover-image class="star" style="width: 35rpx;height: 35rpx;display: inline-block;" src="../../assets/images/star.png" ></cover-image>
+                        <cover-view class="orderTotal">{{driver.stars}}</cover-view>
+                    </cover-view>
+                   
+                    <cover-view class="detailed-Cartnumber">{{driver.Cartnumber}}18275601714</cover-view>
+
+                    <cover-view class="detailed-cart">{{driver.cart}}</cover-view>
+                </cover-view>
+            </cover-view>
+            <cover-view class="driver-message">
+                    <cover-view class="mas">
+                            <cover-image style="width: 70rpx;height: 70rpx;" src="../../assets/images/msm.png"/>
+                        </cover-view>
+                        <cover-view class="phone">
+                            <cover-image style="width: 70rpx;height: 70rpx;" src="../../assets/images/phone.png" bindtap="tel"/>
+                        </cover-view>
+            </cover-view>
+          
+        </cover-view>
+        <cover-view class="total-looking">
+            <cover-image class="looking-img" style="width: 30rpx;height: 30rpx;" src="../../assets/images/looking.png"  ></cover-image>
+            <cover-view class="looking-desc">寻找其他相同相似路径的好友</cover-view>
+        </cover-view>
+        <cover-view class="total-prompt"><button open-type='contact' session-from=''>进入聊天系统与他/她联系</button>
+        </cover-view>
+
+
+    </cover-view>
+
+    
+
+
+</view>
+
+<view class="container">
+
+    <cover-view class="total2">
+        <cover-view class="total-driver">
+            <cover-view class="driver-info">
+                <cover-view class="driver-img">
+                    <cover-image style="width: 150rpx;height: 150rpx;"src="../../assets/images/driver.png"/>
+                </cover-view>
+                <cover-view class="driver-detailed" >
+                    <cover-view class="detailed-name">{{driver.name}}推荐职业伴跑者
+                        <cover-image class="star" style="width: 35rpx;height: 35rpx;display: inline-block;" src="../../assets/images/star.png" ></cover-image>
+                        <cover-view class="orderTotal">{{driver.stars}}</cover-view>
+                    </cover-view>
+                   
+                    <cover-view class="detailed-Cartnumber" bindtap="tel">{{driver.Cartnumber}}18275601714</cover-view>
+
+                    <cover-view class="detailed-cart">{{driver.cart}}</cover-view>
+                </cover-view>
+            </cover-view>
+            <cover-view class="driver-message">
+                    <cover-view class="mas">
+                            <cover-image style="width: 70rpx;height: 70rpx;" src="../../assets/images/msm.png"/>
+                        </cover-view>
+                        <cover-view class="phone">
+                            <cover-image style="width: 70rpx;height: 70rpx;" src="../../assets/images/phone.png" bindtap="tel"/>
+                        </cover-view>
+            </cover-view>
+          
+        </cover-view>
+        <cover-view class="total-looking">
+            <cover-image class="looking-img" style="width: 30rpx;height: 30rpx;" src="../../assets/images/looking.png"  ></cover-image>
+            <cover-view class="looking-desc">寻找其他相同相似路径的好友</cover-view>
+        </cover-view>
+        <cover-view class="total-prompt"><button open-type='contact' session-from=''>进入聊天系统与他/她联系</button>
+        </cover-view>
+
+
+    </cover-view>
+
+    
+
+
+</view>
+
+
+
+
+
+
+
